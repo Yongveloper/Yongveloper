@@ -1,7 +1,7 @@
 ### 👋 Hello, My name is Hyunjun
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Yongveloper&count_private=true&a&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yongbeloper&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yongveloper&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Yongveloper/Yongveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
