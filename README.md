@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Yongveloper%20GitHub&fontSize=70&desc=Frontend%20Developer&animation=blink&fontAlign=50&fontAlignY=20)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Yongveloper%20GitHub&fontSize=70&desc=Frontend%20Developer&animation=blink&fontAlign=50&fontAlignY=35)
 ### 👋 Hello, My name is Hyunjun
 
 - 📖 I’m currently learning Vanilla JS, React.js and TypeScript etc..
