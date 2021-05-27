@@ -30,7 +30,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yongveloper&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-### About Me👩‍💻
+### Etc👩‍💻
 
 <div align='center'>
    <a href="https://yong-nyong.tistory.com/"><img src="https://img.shields.io/badge/Tistory-E97627?style=flat-square&logo=t-mobile&logoColor=white"/></a>
