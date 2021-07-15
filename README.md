@@ -19,7 +19,7 @@
 
 ### Platform 🤹   
 <div align='center'>
-  <img src="https://img.shields.io/badge/slack-4A154B?style=flat-square&logo=slack&logoColor=white"/>
+  <img src="https://img.shields.io/badge/slack-4A154B?style=flat-square&logo=slack&logoColor=white" alt="slack"/>
  </div>
 <p></p>
 
