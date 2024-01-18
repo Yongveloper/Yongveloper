@@ -25,9 +25,9 @@
 
 ### My record 🤓
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yongveloper&&count_private=true&a&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yongveloper&&count_private=true&a&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yongveloper&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yongveloper&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Blog👩‍💻
