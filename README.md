@@ -24,10 +24,14 @@
 <p></p>
 
 ### My record 🤓
+<div align='center'>
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yongveloper&&count_private=true&a&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yongveloper&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+  ![Yongveloper GitHub stats](https://github-readme-stats.vercel.app/api?username=Yongveloper&&count_private=true&a&show_icons=true&theme=chartreuse-dark)
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yongveloper&layout=compact&theme=chartreuse-dark)
+</div>
+  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=aaa9015)](https://solved.ac/aaa9015)
 
 
 ### Blog👩‍💻
