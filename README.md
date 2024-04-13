@@ -11,24 +11,17 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/Next.js-gray?style=flat-square&logo=Next.js"/>   
 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
-<br/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/recoil-3178C6?style=flat-square&logo=recoil&logoColor=white"/>
+   <img src="https://img.shields.io/badge/tanstack query-FF4154?style=flat-square&logo=react-query&logoColor=white"/>
 </div/>
    
 ### ...
 
-### Community 🤹   
-<div align='center'>
-  <img src="https://img.shields.io/badge/slack-4A154B?style=flat-square&logo=slack&logoColor=white" alt="slack"/>
- </div>
-<p></p>
-
 ### My record 🤓
-<div align='center'>
-  
-  ![Yongveloper GitHub stats](https://github-readme-stats.vercel.app/api?username=Yongveloper&&count_private=true&a&show_icons=true&theme=chartreuse-dark)
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yongveloper&layout=compact&theme=chartreuse-dark)
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=Yongveloper&&count_private=true&a&show_icons=true&theme=chartreuse-dark" height="180" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yongveloper&layout=compact&theme=chartreuse-dark" height="180" /> 
 </div>
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=aaa9015)](https://solved.ac/aaa9015)
